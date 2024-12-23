@@ -1,6 +1,6 @@
 {
   "name": "@danjiro/react-scroll",
-  "version": "1.9.1",
+  "version": "1.9.2",
   "description": "A scroll component for React.js",
   "main": "build/npm/modules/index.js",
   "repository": {
