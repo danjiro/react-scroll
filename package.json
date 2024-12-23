@@ -1,11 +1,11 @@
 {
-  "name": "react-scroll",
+  "name": "@danjiro/react-scroll",
   "version": "1.9.1",
   "description": "A scroll component for React.js",
-  "main": "modules",
+  "main": "build/npm/modules/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fisshy/react-scroll.git"
+    "url": "git+https://github.com/danjiro/react-scroll.git"
   },
   "scripts": {
     "examples": "webpack-dev-server --config examples/webpack.config.js --no-info --content-base examples",
@@ -80,5 +80,8 @@
   "directories": {
     "example": "examples"
   },
-  "author": ""
+  "author": "",
+  "files": [
+    "build/npm"
+  ]
 }
